@@ -1,6 +1,6 @@
 # The_Vault
 
-Overview
+# Overview
 The Vault is a comprehensive web application designed to simulate a bank account management system. It allows users to create a bank account, verify their identity through an activation process, and log in to manage their account. Depending on the role assigned to their account (User, Employee, or Administrator), users have access to different functionalities within the application.
 
 Features
