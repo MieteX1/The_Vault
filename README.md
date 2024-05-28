@@ -4,11 +4,11 @@
 The Vault is a comprehensive web application designed to simulate a bank account management system. It allows users to create a bank account, verify their identity through an activation process, and log in to manage their account. Depending on the role assigned to their account (User, Employee, or Administrator), users have access to different functionalities within the application.
 
 ## Features
-User Registration
-Account Creation: Users can create a bank account by providing their first name, last name, email address, password, and confirming their password.
-Terms and Conditions: Users must accept the terms and conditions to proceed.
-ReCaptcha: A ReCaptcha is used to verify that the user is not a robot.
-Error Handling: Appropriate error messages are displayed for incorrect or incomplete form submissions.
+**User Registration**
+- Account Creation: Users can create a bank account by providing their first name, last name, email address, password, and confirming their password.
+- Terms and Conditions: Users must accept the terms and conditions to proceed.
+- ReCaptcha: A ReCaptcha is used to verify that the user is not a robot.
+- Error Handling: Appropriate error messages are displayed for incorrect or incomplete form submissions.
 Account Activation
 Verification Process: After registration, users receive an activation code via email.
 Activation Code: Users must enter the received activation code to activate their account.
