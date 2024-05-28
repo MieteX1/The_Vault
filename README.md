@@ -54,7 +54,9 @@ For testing purposes, we have created sample accounts with the following details
   - Password: 12345678
 - Administrator Accounts:
   - Account Number: 12
-  - Password: 12345678 </br>
+  - Password: 12345678
+
+
 Feel free to log in using these accounts to explore the different functionalities available based on the account roles.
 
 Thank you for your interest in The Vault. For any further inquiries or issues, please feel free to contact us.
