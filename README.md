@@ -15,9 +15,9 @@ The Vault is a comprehensive web application designed to simulate a bank account
 - **Account Number**: Once activated, users receive their account number via email, which they use to log in along with their password.
 ## Login
 - **Role-Based** Access: Upon logging in, users are redirected to a panel based on their account role:
---User
---Employee
---Administrator
+- -User
+-Employee
+-Administrator
 User Panel
 Dashboard: Displays the user's first name, last name, session expiry time, account balance, and a card pattern.
 Transaction History: Shows incoming and outgoing transaction history with dates and amounts.
