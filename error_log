@@ -1,0 +1,110 @@
+[30-Jan-2024 19:43:40 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:12 Europe/Warsaw] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:12 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:13 Europe/Warsaw] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:13 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:14 Europe/Warsaw] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:14 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:45:15 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for host failed: Name or service not known in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php:8
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php(8): mysqli->__construct()
+#1 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php(6): require_once('/home/dm69635/j...')
+#2 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/Scripts/Connect.php on line 8
+[30-Jan-2024 19:46:19 Europe/Warsaw] PHP Warning:  Trying to access array offset on null in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 14
+[30-Jan-2024 19:46:48 Europe/Warsaw] PHP Warning:  Trying to access array offset on null in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 14
+[30-Jan-2024 19:53:10 Europe/Warsaw] PHP Warning:  Trying to access array offset on null in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 45
+[30-Jan-2024 19:53:24 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'v55582550_julek'@'localhost' (using password: YES) in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php:7
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php on line 7
+[30-Jan-2024 19:54:21 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'v55582550_julek'@'localhost' (using password: YES) in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php:7
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php on line 7
+[30-Jan-2024 19:54:50 Europe/Warsaw] PHP Warning:  Trying to access array offset on null in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 45
+[30-Jan-2024 19:54:59 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'v55582550_julek'@'localhost' (using password: YES) in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php:7
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php on line 7
+[30-Jan-2024 19:56:01 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'v55582550_julek'@'localhost' (using password: YES) in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php:7
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php on line 7
+[30-Jan-2024 19:56:06 Europe/Warsaw] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'v55582550_julek'@'localhost' (using password: YES) in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php:7
+Stack trace:
+#0 /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/potwierdz.php on line 7
+[30-Jan-2024 20:00:15 Europe/Warsaw] PHP Warning:  Trying to access array offset on null in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 58
+[30-Jan-2024 20:13:18 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function generateVerificationLink() in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 56
+[30-Jan-2024 20:14:49 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function generateVerificationLink() in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 56
+[30-Jan-2024 20:16:45 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function generateVerificationLink() in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/Bank F_J/test.php on line 56
+[03-Feb-2024 20:34:30 Europe/Warsaw] PHP Warning:  Undefined variable $numerKonta in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 23
+[03-Feb-2024 20:34:33 Europe/Warsaw] PHP Warning:  Undefined variable $numerKonta in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 23
+[03-Feb-2024 20:34:34 Europe/Warsaw] PHP Warning:  Undefined variable $numerKonta in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 23
+[03-Feb-2024 20:34:35 Europe/Warsaw] PHP Warning:  Undefined variable $numerKonta in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 23
+[03-Feb-2024 20:35:44 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:35:47 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:35:48 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:35:50 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:35:55 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:35:56 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:35:57 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:36:29 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
+[03-Feb-2024 20:36:35 Europe/Warsaw] PHP Warning:  Undefined array key "Nr_konta" in /home/dm69635/juliuszdrojecki.pl/projekt_php_studia/The_Vault/potwierdz.php on line 18
