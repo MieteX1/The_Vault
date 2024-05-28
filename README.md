@@ -18,43 +18,43 @@ The Vault is a comprehensive web application designed to simulate a bank account
   - User
   - Employee
   - Administrator
-User Panel
-Dashboard: Displays the user's first name, last name, session expiry time, account balance, and a card pattern.
-Transaction History: Shows incoming and outgoing transaction history with dates and amounts.
-Fund Transfer: Allows users to make transfers to other accounts.
-Employee Panel
-User Management: Employees can manually add users to the database and edit user balances.
-User List: Displays a list of all users.
-Transaction History: Shows the transaction history of all users.
-Administrator Panel
-Permissions Management: In addition to employee privileges, administrators can change user roles.
-Technologies
-Frontend: HTML, CSS
-Backend: PHP
-Database: MySQL
-My Contributions
+## User Panel
+- **Dashboard**: Displays the user's first name, last name, session expiry time, account balance, and a card pattern.
+- **Transaction History**: Shows incoming and outgoing transaction history with dates and amounts.
+- **Fund Transfer**: Allows users to make transfers to other accounts.
+## Employee Panel
+- **User Management**: Employees can manually add users to the database and edit user balances.
+- **User List**: Displays a list of all users.
+- **Transaction History**: Shows the transaction history of all users.
+## Administrator Panel
+- **Permissions Management**: In addition to employee privileges, administrators can change user roles.
+## Technologies
+- **Frontend**: HTML, CSS
+- **Backend**: PHP
+- **Database**: MySQL
+## My Contributions
 My primary responsibilities included:
 
-Database Management: Designing, creating, and maintaining the database structure.
-Backend Development: Implementing the backend logic to handle user registration, login, role-based access control, and transaction processing.
-Frontend Assistance: Occasionally assisted in writing frontend code.
-Demo
+- **Database Management**: Designing, creating, and maintaining the database structure.
+- **Backend Development**: Implementing the backend logic to handle user registration, login, role-based access control, and transaction processing.
+- **Frontend Assistance**: Occasionally assisted in writing frontend code.
+## Demo
 You can access the application using the following link:
 
 The Vault Demo
 
-Test Accounts
+## Test Accounts
 For testing purposes, we have created sample accounts with the following details:
 
-User Accounts:
-Account Number: 10
-Password: 12345678
-Employee Accounts:
-Account Number: 11
-Password: 12345678
-Administrator Accounts:
-Account Number: 12
-Password: 12345678
+- User Accounts:
+  - Account Number: 10
+  - Password: 12345678
+- Employee Accounts:
+  - Account Number: 11
+  - Password: 12345678
+- Administrator Accounts:
+  - Account Number: 12
+  - Password: 12345678
 Feel free to log in using these accounts to explore the different functionalities available based on the account roles.
 
 Thank you for your interest in The Vault. For any further inquiries or issues, please feel free to contact us.
