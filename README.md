@@ -41,7 +41,7 @@ My primary responsibilities included:
 ## Demo
 You can access the application using the following link:
 
-[The Vault Demo](doc:https://juliuszdrojecki.pl/projekt_php_studia/The_Vault/logowanie.php)
+[The Vault Demo](https://juliuszdrojecki.pl/projekt_php_studia/The_Vault/logowanie.php)
 
 ## Test Accounts
 For testing purposes, we have created sample accounts with the following details:
