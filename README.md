@@ -5,19 +5,19 @@ The Vault is a comprehensive web application designed to simulate a bank account
 
 ## Features
 **User Registration**
-- Account Creation: Users can create a bank account by providing their first name, last name, email address, password, and confirming their password.
-- Terms and Conditions: Users must accept the terms and conditions to proceed.
-- ReCaptcha: A ReCaptcha is used to verify that the user is not a robot.
-- Error Handling: Appropriate error messages are displayed for incorrect or incomplete form submissions.
-Account Activation
-Verification Process: After registration, users receive an activation code via email.
-Activation Code: Users must enter the received activation code to activate their account.
-Account Number: Once activated, users receive their account number via email, which they use to log in along with their password.
-Login
-Role-Based Access: Upon logging in, users are redirected to a panel based on their account role:
-User
-Employee
-Administrator
+- **Account Creation**: Users can create a bank account by providing their first name, last name, email address, password, and confirming their password.
+- **Terms and Conditions**: Users must accept the terms and conditions to proceed.
+- **ReCaptcha**: A ReCaptcha is used to verify that the user is not a robot.
+- **Error Handling**: Appropriate error messages are displayed for incorrect or incomplete form submissions.
+## Account Activation
+- **Verification Process**: After registration, users receive an activation code via email.
+- **Activation Code**: Users must enter the received activation code to activate their account.
+- **Account Number**: Once activated, users receive their account number via email, which they use to log in along with their password.
+## Login
+- **Role-Based** Access: Upon logging in, users are redirected to a panel based on their account role:
+--User
+--Employee
+--Administrator
 User Panel
 Dashboard: Displays the user's first name, last name, session expiry time, account balance, and a card pattern.
 Transaction History: Shows incoming and outgoing transaction history with dates and amounts.
